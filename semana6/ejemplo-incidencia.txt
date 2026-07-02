@@ -1,0 +1,10 @@
+se ejecuta en postman el json: {
+  "tipo": "Calles destapadas",
+  "descripcion": "La comunidad reporta que algunas calles del sector están destapadas y algunos huecos son muy grandes aumentando el riesgo de accidentalidad"
+}
+con la URL http://localhost:3000/incidencia
+y aparece como resultado: {
+    "mensaje": "Incidencia registrada",
+    "tipo": "Calles destapadas",
+    "descripcion": "La comunidad reporta que algunas calles del sector están destapadas y algunos huecos son muy grandes aumentando el riesgo de accidentalidad"
+}

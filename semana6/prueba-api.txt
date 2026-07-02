@@ -1,0 +1,11 @@
+Se ejecuta la url http://localhost:3000/registro en postman con el json: {
+    "nombre": "Beneficiario",
+    "mensaje": "Prueba Beneficiario"
+  }
+
+y devuelve como respuesta:
+{
+    "estado": "Datos recibidos",
+    "nombre": "Beneficiario",
+    "mensaje": "Prueba Beneficiario"
+}
