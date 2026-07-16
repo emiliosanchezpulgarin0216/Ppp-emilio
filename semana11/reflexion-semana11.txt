@@ -1,0 +1,3 @@
+¿Por qué una plataforma tecnológica que promueve participación ciudadana debe tener base de datos, autenticación de usuarios y protección de información?
+
+R//Una plataforma de participación ciudadana requiere de una infraestructura tecnológica para garantizar la seguridad y participación real ciudadana, proteger la identidad de los usuarios y la información allí depositada y cumplir con la normatividad legal vigente, contribuyendo así a la seguridad de la información, confidencialidad, y transparencia.
